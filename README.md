@@ -1,7 +1,7 @@
 # CSIRO(호주 연방 과학 산업 연구 기구), 인턴 근무
 
 
--  소논문 제목: Confidentialising Count and Magnitude data
+-  소논문 작성: Confidentialising Count and Magnitude data
 -  기간: 2012년 7월 – 2012년 8월
 -  개요: 민감 정보의 노출 리스크를 줄이는 통계 기법에 관한 소 논문 작성
 -  담당:
