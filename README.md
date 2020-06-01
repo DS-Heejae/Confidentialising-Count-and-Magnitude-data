@@ -13,5 +13,5 @@
     - 모델 리스크 측정에 사용하는 통계 기법 및 수식 적용, 데이터 시각화 스킬 향상
     - 다양한 해외 논문 리서치를 통한 영어 실력 향상, 논문을 코딩으로 구현하며 R 활용 역량 강화. 
 
-- 연구 보고서는 아래 pdf에서 확인하실 수 있습니다.
+- 연구 보고서 상세 내용은 우측 pdf 파일로 확인하실 수 있습니다.
 [Confidentialising Count and Magnitude data.pdf](https://github.com/DS-Heejae/Confidentialising-Count-and-Magnitude-data/files/4711170/Confidentialising.Count.and.Magnitude.data.pdf)
